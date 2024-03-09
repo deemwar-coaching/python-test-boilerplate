@@ -38,7 +38,13 @@ Absolutely! Here's a step-by-step guide for installing Python, Poetry, Visual St
    - Check the Poetry version with:
      ```bash
      poetry --version
+
      ```
+
+#### Installing Pycharm
+
+https://www.jetbrains.com/pycharm/download/
+
 
 #### Installing Visual Studio Code (VS Code)
 

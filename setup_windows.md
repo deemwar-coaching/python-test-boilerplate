@@ -63,6 +63,10 @@ Certainly! Below is a step-by-step guide for installing Python, Poetry, Visual S
    - You should see the installed Git version.
 
 ---
+#### Installing Pycharm
+
+https://www.jetbrains.com/pycharm/download/
+
 
 #### Post-Installation
 
@@ -73,6 +77,8 @@ Certainly! Below is a step-by-step guide for installing Python, Poetry, Visual S
     git config --global user.name "Your Name"
     git config --global user.email "your.email@example.com"
     ```
+
+
 
 - **Install VS Code Extensions**:
 
