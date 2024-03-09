@@ -74,8 +74,10 @@ Certainly! Below is a step-by-step guide for installing Python, Poetry, Visual S
     git config --global user.email "your.email@example.com"
     ```
 
-- **Explore VS Code Extensions**:
-  - In VS Code, explore extensions for Python and Git to enhance your development experience.
+- **Install VS Code Extensions**:
+
+1. Python Extension Pack
+2. Python Test Explorer for Visual Studio Code
 
 - **Check for Updates Regularly**:
   - Regularly check for updates to Python, Poetry, VS Code, and Git to ensure you have the latest features and security updates.

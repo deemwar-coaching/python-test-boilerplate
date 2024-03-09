@@ -79,8 +79,11 @@ Absolutely! Here's a step-by-step guide for installing Python, Poetry, Visual St
     git config --global user.email "your.email@example.com"
     ```
 
-- **Explore VS Code Extensions**:
-  - Consider adding extensions in VS Code for enhanced Python and Git support.
+
+- **Install VS Code Extensions**:
+
+1. Python Extension Pack
+2. Python Test Explorer for Visual Studio Code
 
 
 - **Install Xcode Command Line Tools** (if needed for Git):
