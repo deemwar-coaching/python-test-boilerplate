@@ -1,6 +1,4 @@
-Absolutely! Here's a step-by-step guide for installing Python, Poetry, Visual Studio Code (VS Code), and Git on macOS. This guide is designed to be user-friendly for your team, regardless of their level of technical expertise.
 
----
 
 ### Installation Guide for Python, Poetry, VS Code, and Git on macOS
 
