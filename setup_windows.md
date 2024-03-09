@@ -1,6 +1,4 @@
-Certainly! Below is a step-by-step guide for installing Python, Poetry, Visual Studio Code (VS Code), and Git on Windows. This guide is designed to be clear and easy to follow for your team members, regardless of their familiarity with these tools.
 
----
 
 ### Installation Guide for Python, Poetry, VS Code, and Git on Windows
 
